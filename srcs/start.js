@@ -1,2 +1,4 @@
-console.log("version 3");
+console.log("version 1");
 console.log("start");
+console.log("checking");
+console.log("okay");
